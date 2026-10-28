@@ -1,0 +1,118 @@
+SUMIRO CUSTOM USE AND REDISTRIBUTION LICENSE
+Version 1.0 — October 2026
+
+Copyright (c) 2024–2026 Yuvraj Rastogi, solely to the extent the relevant
+materials are owned by the copyright holder. All rights reserved.
+
+### SUMIRO Logo and Brand Assets — All Rights Reserved
+
+Copyright (c) 2026 Yuvraj Rastogi. All rights reserved.
+
+The SUMIRO logo, including the original artwork distributed in `assets/Sumiro.png`, is an original work created by Yuvraj Rastogi and is not licensed for general reuse under the permissions granted for the SUMIRO extension.
+
+Except for the limited permission to display the logo as part of the genuine, unmodified SUMIRO extension and its official project listings, no permission is granted to copy, extract, reproduce, modify, adapt, redistribute, sublicense, sell, or otherwise use the logo or derivative versions of it.
+
+Commercial use of the logo is prohibited without prior written permission from the copyright holder. This includes use in commercial products, paid services, advertising, merchandise, another extension, or a competing or rebranded project.
+
+The logo may not be presented in a way that falsely suggests an official partnership, endorsement, or affiliation with SUMIRO or its author.
+
+These restrictions apply to the logo artwork and do not automatically determine the licensing terms of third-party names, trademarks, or other assets included in the project. All rights not expressly granted above are reserved.
+
+For written permission or licensing inquiries, contact the copyright holder through the official SUMIRO project repository.
+
+IMPORTANT SCOPE NOTICE
+
+This license applies only to original materials in SUMIRO that Yuvraj Rastogi
+owns or is authorized to license (the “Original Materials”). It does not grant
+rights to third-party software, source files, palettes, artwork, logos,
+trademarks, or other materials that may be included in, adapted for, or
+referenced by the project. Such material is governed by its applicable license,
+permission, or other legal terms. No rights in third-party material are granted
+by implication. See THIRD_PARTY_NOTICES.md where applicable.
+
+1. PERMISSION TO USE
+
+Subject to this license, the copyright holder grants you a limited,
+non-exclusive, worldwide, royalty-free permission to install, run, display, and
+use the Original Materials as a color theme in Visual Studio Code or a compatible
+editor, for personal, educational, and professional development use. This
+permission does not authorize resale or redistribution of the Original
+Materials.
+
+2. RESTRICTIONS
+
+Unless you have prior written permission from the copyright holder, you may not:
+
+  a. Sell, rent, lease, sublicense, paywall, or charge a fee for access to the
+     Original Materials, whether separately or as part of a bundle or service.
+
+  b. Republish, redistribute, mirror, re-upload, or make the Original Materials
+     or a modified, rebranded, or derivative package publicly available through
+     an extension marketplace, registry, software repository, download site, or
+     other distribution channel.
+
+  c. Publish a modified or derivative extension that contains a substantial
+     portion of the Original Materials, or use the Original Materials to create
+     a replacement package presented as a separate theme product.
+
+  d. Remove or obscure copyright notices, attribution notices, or this license
+     from copies of the Original Materials that you are authorized to retain.
+
+  e. Represent the Original Materials as your own work or claim endorsement,
+     sponsorship, or affiliation with the copyright holder that does not exist.
+
+3. PERSONAL FORKS AND CONTRIBUTIONS
+
+You may create a private working copy or fork for personal evaluation, and you
+may submit proposed changes to the project's official repository if one is
+available. This section does not grant permission to distribute a public fork
+or publish a forked extension. Any contribution you submit must be your own
+work or material you are authorized to contribute, and submission does not
+transfer ownership of your pre-existing rights.
+
+4. THIRD-PARTY MATERIALS AND TRADEMARKS
+
+This license does not license any third-party materials or trademarks. Product
+names are used only to identify compatibility, inspiration, or the relevant
+visual theme family. All third-party names, marks, and rights remain with their
+respective owners. You are responsible for following the applicable terms for
+any third-party material you use.
+
+5. TERMINATION
+
+The permission granted by this license terminates automatically if you materially
+violate its terms. Upon termination, you must stop using and delete copies of the
+Original Materials in your possession, except to the extent applicable law
+requires otherwise. This clause does not remove any rights you may have under
+an applicable third-party license.
+
+6. DISCLAIMER OF WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE ORIGINAL MATERIALS ARE
+PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE COPYRIGHT HOLDER DOES NOT
+WARRANT THAT THE THEMES WILL WORK IDENTICALLY IN EVERY EDITOR, VERSION, DISPLAY,
+OR CONFIGURATION.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL
+NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, GOODWILL, OR BUSINESS INTERRUPTION,
+ARISING OUT OF OR RELATED TO THE USE OR INABILITY TO USE THE ORIGINAL MATERIALS.
+NOTHING IN THIS LICENSE EXCLUDES LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED OR
+LIMITED.
+
+8. GENERAL
+
+This license is not an open-source license and does not grant general rights to
+modify or redistribute the Original Materials. If any provision is held
+unenforceable, the remaining provisions will continue to apply to the extent
+permitted by law. This license does not override mandatory rights under
+applicable law.
+
+For written permission beyond these terms, contact the copyright holder through
+the project's official repository or publisher contact details.
+
+END OF LICENSE

@@ -1,0 +1,159 @@
+{
+  "name": "sumiro",
+  "displayName": "SUMIRO",
+"description": "Pitch-black OLED and refined dark/light themes for VS Code-compatible editors, inspired by Cursor, Vercel, VS Code, and Xcode.",
+  "version": "1.1.2",
+  "publisher": "yuvraj-rastogi",
+  "author": {
+    "name": "Yuvraj Rastogi"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "icon": "assets/Sumiro.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+  "vscode theme",
+  "visual studio code theme",
+  "color theme",
+  "editor theme",
+  "dark theme",
+  "light theme",
+  "oled theme",
+  "oled black",
+  "pure black",
+  "pitch black",
+  "amoled theme",
+  "black theme",
+  "cursor theme",
+  "cursor editor",
+  "vercel theme",
+  "xcode theme",
+  "minimal theme",
+  "high contrast",
+  "dark oled",
+  "theme pack"
+],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiospampinato/vscode-todo-plus"
+  },
+  "bugs": {
+    "url": "https://github.com/fabiospampinato/vscode-todo-plus/issues"
+  },
+  "homepage": "https://github.com/fabiospampinato/vscode-todo-plus",
+  "contributes": {
+    "themes": [
+      {
+        "label": "@sumiro - Cursor OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cursor/cursor-oled-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Cursor Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cursor/cursor-dark-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Cursor Dark Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cursor/cursor-dark-midnight-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Cursor Dark High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/cursor/cursor-dark-hc-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Cursor Dark Colorblind",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cursor/cursor-dark-colorblind-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Cursor Light",
+        "uiTheme": "vs",
+        "path": "./themes/cursor/cursor-light-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Cursor Light High Contrast",
+        "uiTheme": "hc-light",
+        "path": "./themes/cursor/cursor-light-hc-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Cursor Light Colorblind",
+        "uiTheme": "vs",
+        "path": "./themes/cursor/cursor-light-colorblind-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Vercel Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vercel/vercel-dark-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Vercel Light",
+        "uiTheme": "vs",
+        "path": "./themes/vercel/vercel-light-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Vscode OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vscode/vscode-oled-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Xcode Classic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xcode/xcode-classic-dark-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Xcode Dark OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xcode/xcode-classic-dark-oled-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Xcode Classic Light",
+        "uiTheme": "vs",
+        "path": "./themes/xcode/xcode-classic-light-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Xcode Default Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xcode/xcode-default-dark-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Xcode Default Dark (v2)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xcode/xcode-default-dark-modified-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Xcode Civic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xcode/xcode-civic-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Xcode Midnight Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xcode/xcode-midnight-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Xcode Low Key Light",
+        "uiTheme": "vs",
+        "path": "./themes/xcode/xcode-low-key-color-theme.json"
+      },
+      {
+        "label": "@sumiro - Xcode Spartan Light",
+        "uiTheme": "vs",
+        "path": "./themes/xcode/xcode-spartan-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+  "package": "npx @vscode/vsce package"
+}
+}

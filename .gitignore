@@ -1,0 +1,12 @@
+node_modules/
+*.vsix
+.DS_Store
+_gemini/
+.vscode/
+node_modules/
+*.vsix
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode-test/

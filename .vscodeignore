@@ -1,0 +1,7 @@
+.vscode/**
+.git/**
+.gitignore
+.gitattributes
+*.vsix
+_gemini/**
+.DS_Store

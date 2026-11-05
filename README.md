@@ -19,18 +19,27 @@
 
 
 <div align="center">
-  <img src="https://shieldcn.dev/vscode/installs/YuvrajRastogi/matte-minimal.png?variant=branded" />
-  <img src="https://shieldcn.dev/vscode/rating/YuvrajRastogi/matte-minimal.png?variant=secondary" />
-  <img src="https://shieldcn.dev/github/stars/yuvraj-rastogi/matte-minimal.png?variant=secondary" alt="GitHub Star" /> <img src="https://shieldcn.dev/github/release/yuvraj-rastogi/matte-minimal.png?variant=secondary"><img/>
+  <a href="https://marketplace.visualstudio.com/items?itemName=YuvrajRastogi.matte-minimal">
+    <img src="https://shieldcn.dev/vscode/installs/YuvrajRastogi/matte-minimal.png?variant=branded&size=lg" height="28" alt="VS Code Installs" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=YuvrajRastogi.matte-minimal&ssr=false#review-details">
+    <img src="https://shieldcn.dev/vscode/rating/YuvrajRastogi/matte-minimal.png?variant=secondary&size=lg" height="28" alt="VS Code Rating" />
+  </a>
+  <a href="https://github.com/yuvraj-rastogi/Matte-Minimal">
+    <img src="https://shieldcn.dev/github/stars/yuvraj-rastogi/matte-minimal.png?variant=secondary&size=lg" height="28" alt="GitHub Star" />
+  </a>
+  <a href="https://github.com/yuvraj-rastogi/Matte-Minimal/releases">
+    <img src="https://shieldcn.dev/github/release/yuvraj-rastogi/matte-minimal.png?variant=secondary&size=lg" height="28" alt="GitHub Release" />
+  </a>
 </div>
 
 <!-- ![GitHub Sponsors](https://shieldcn.dev/github/sponsors/jal-co.png) -->
 
 ### Supported Platform
 
-![Cursor](https://shieldcn.dev/badge/Cursor-IDE-000000.png?logo=cursor&logoColor=white&variant=default)
-![VS Code](https://shieldcn.dev/badge/VS_Code-IDE-000000.png?logo=ri:VscVscode&logoColor=white&variant=default)
-![Antigravity IDE](https://shieldcn.dev/badge/Antigravity-IDE-000000.png?logo=data:image/svg%2Bxml;base64,PASTE_YOUR_BASE64_HERE&variant=default)
+<img src="https://shieldcn.dev/badge/Cursor-IDE-000000.png?logo=cursor&logoColor=white&variant=default&size=lg" height="28" alt="Cursor" />
+<img src="https://shieldcn.dev/badge/VS_Code-IDE-000000.png?logo=ri:VscVscode&logoColor=white&variant=default&size=lg" height="28" alt="VS Code" />
+<img src="https://shieldcn.dev/badge/Antigravity-IDE-000000.png?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiCiAgICAgdmlld0JveD0iMCAwIDE4MCAxODAiCiAgICAgZmlsbD0ibm9uZSI%2BCiAgPHBhdGgKICAgIGQ9Ik0xNDQuMjQ4IDE0OS4wNjJDMTUxLjc0OCAxNTQuNjg4IDE2Mi45OTggMTUwLjkzOCAxNTIuNjg1IDE0MC42MjVDMTIxLjc0OCAxMTAuNjI1IDEyOC4zMSAyOC4xMjUgODkuODcyNyAyOC4xMjVDNTEuNDM1MiAyOC4xMjUgNTcuOTk3NyAxMTAuNjI1IDI3LjA2MDIgMTQwLjYyNUMxNS44MTAyIDE1MS44NzUgMjcuOTk3NyAxNTQuNjg4IDM1LjQ5NzcgMTQ5LjA2MkM2NC41NjAyIDEyOS4zNzUgNjIuNjg1MiA5NC42ODc1IDg5Ljg3MjcgOTQuNjg3NUMxMTcuMDYgOTQuNjg3NSAxMTUuMTg1IDEyOS4zNzUgMTQ0LjI0OCAxNDkuMDYyWiIKICAgIGZpbGw9IiNGRkZGRkYiLz4KPC9zdmc%2B&variant=default&size=lg" height="28" alt="Antigravity IDE" />
 
 <!-- ![Antigravity](https://shieldcn.dev/badge/Antigravity-IDE-000000.svg?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiCiAgICAgdmlld0JveD0iMCAwIDE4MCAxODAiCiAgICAgZmlsbD0ibm9uZSI%2BCiAgPHBhdGgKICAgIGQ9Ik0xNDQuMjQ4IDE0OS4wNjJDMTUxLjc0OCAxNTQuNjg4IDE2Mi45OTggMTUwLjkzOCAxNTIuNjg1IDE0MC42MjVDMTIxLjc0OCAxMTAuNjI1IDEyOC4zMSAyOC4xMjUgODkuODcyNyAyOC4xMjVDNTEuNDM1MiAyOC4xMjUgNTcuOTk3NyAxMTAuNjI1IDI3LjA2MDIgMTQwLjYyNUMxNS44MTAyIDE1MS44NzUgMjcuOTk3NyAxNTQuNjg4IDM1LjQ5NzcgMTQ5LjA2MkM2NC41NjAyIDEyOS4zNzUgNjIuNjg1MiA5NC42ODc1IDg5Ljg3MjcgOTQuNjg3NUMxMTcuMDYgOTQuNjg3NSAxMTUuMTg1IDEyOS4zNzUgMTQ0LjI0OCAxNDkuMDYyWiIKICAgIGZpbGw9IiNGRkZGRkYiLz4KPC9zdmc%2B&variant=default) -->
 

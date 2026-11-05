@@ -1,14 +1,14 @@
 {
-  "name": "sumiro",
-  "displayName": "SUMIRO",
-"description": "Pitch-black OLED and refined dark/light themes for VS Code-compatible editors, inspired by Cursor, Vercel, VS Code, and Xcode.",
-  "version": "1.1.2",
-  "publisher": "yuvraj-rastogi",
+  "name": "matte-minimal",
+  "displayName": "Matte Minimal - Vercel, Xcode, Cursor, Vscode ",
+"description": "Pure Black. Perfect Contrast. Refined dark and light themes inspired by Cursor, Vercel, VS Code, and Xcode.",
+  "version": "1.1.0",
+  "publisher": "YuvrajRastogi",
   "author": {
     "name": "Yuvraj Rastogi"
   },
   "license": "SEE LICENSE IN LICENSE",
-  "icon": "assets/Sumiro.png",
+  "icon": "assets/logo.png",
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
@@ -43,113 +43,119 @@
 ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabiospampinato/vscode-todo-plus"
+    "url": "https://github.com/yuvraj-rastogi/Matte-Minimal"
   },
   "bugs": {
-    "url": "https://github.com/fabiospampinato/vscode-todo-plus/issues"
+    "url": "https://github.com/yuvraj-rastogi/Matte-Minimal/issues"
   },
-  "homepage": "https://github.com/fabiospampinato/vscode-todo-plus",
+  "homepage": "https://github.com/yuvraj-rastogi/Matte-Minimal",
   "contributes": {
     "themes": [
       {
-        "label": "@sumiro - Cursor OLED",
+        "label": "@matte - Cursor OLED",
         "uiTheme": "vs-dark",
         "path": "./themes/cursor/cursor-oled-color-theme.json"
       },
       {
-        "label": "@sumiro - Cursor Dark",
+        "label": "@matte - Cursor Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/cursor/cursor-dark-color-theme.json"
       },
       {
-        "label": "@sumiro - Cursor Dark Midnight",
+        "label": "@matte - Cursor Dark Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/cursor/cursor-dark-midnight-color-theme.json"
       },
       {
-        "label": "@sumiro - Cursor Dark High Contrast",
+        "label": "@matte - Cursor Dark High Contrast",
         "uiTheme": "hc-black",
         "path": "./themes/cursor/cursor-dark-hc-color-theme.json"
       },
       {
-        "label": "@sumiro - Cursor Dark Colorblind",
+        "label": "@matte - Cursor Dark Colorblind",
         "uiTheme": "vs-dark",
         "path": "./themes/cursor/cursor-dark-colorblind-color-theme.json"
       },
       {
-        "label": "@sumiro - Cursor Light",
+        "label": "@matte - Cursor Light",
         "uiTheme": "vs",
         "path": "./themes/cursor/cursor-light-color-theme.json"
       },
       {
-        "label": "@sumiro - Cursor Light High Contrast",
+        "label": "@matte - Cursor Light High Contrast",
         "uiTheme": "hc-light",
         "path": "./themes/cursor/cursor-light-hc-color-theme.json"
       },
       {
-        "label": "@sumiro - Cursor Light Colorblind",
+        "label": "@matte - Cursor Light Colorblind",
         "uiTheme": "vs",
         "path": "./themes/cursor/cursor-light-colorblind-color-theme.json"
       },
       {
-        "label": "@sumiro - Vercel Dark",
+        "label": "@matte - Vercel OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vercel/vercel-oled-color-theme.json"
+      },
+       {
+        "label": "@matte - Vercel Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vercel/vercel-dark-color-theme.json"
       },
       {
-        "label": "@sumiro - Vercel Light",
+        "label": "@matte - Vercel Light",
         "uiTheme": "vs",
         "path": "./themes/vercel/vercel-light-color-theme.json"
       },
+      
       {
-        "label": "@sumiro - Vscode OLED",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vscode/vscode-oled-color-theme.json"
-      },
-      {
-        "label": "@sumiro - Xcode Classic Dark",
+        "label": "@matte - Xcode Classic Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/xcode/xcode-classic-dark-color-theme.json"
       },
       {
-        "label": "@sumiro - Xcode Dark OLED",
+        "label": "@matte - Xcode Dark OLED",
         "uiTheme": "vs-dark",
         "path": "./themes/xcode/xcode-classic-dark-oled-color-theme.json"
       },
       {
-        "label": "@sumiro - Xcode Classic Light",
+        "label": "@matte - Xcode Classic Light",
         "uiTheme": "vs",
         "path": "./themes/xcode/xcode-classic-light-color-theme.json"
       },
       {
-        "label": "@sumiro - Xcode Default Dark",
+        "label": "@matte - Xcode Default Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/xcode/xcode-default-dark-color-theme.json"
       },
       {
-        "label": "@sumiro - Xcode Default Dark (v2)",
+        "label": "@matte - Xcode Default Dark (v2)",
         "uiTheme": "vs-dark",
         "path": "./themes/xcode/xcode-default-dark-modified-color-theme.json"
       },
       {
-        "label": "@sumiro - Xcode Civic Dark",
+        "label": "@matte - Xcode Civic Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/xcode/xcode-civic-color-theme.json"
       },
       {
-        "label": "@sumiro - Xcode Midnight Dark",
+        "label": "@matte - Xcode Midnight Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/xcode/xcode-midnight-color-theme.json"
       },
       {
-        "label": "@sumiro - Xcode Low Key Light",
+        "label": "@matte - Xcode Low Key Light",
         "uiTheme": "vs",
         "path": "./themes/xcode/xcode-low-key-color-theme.json"
       },
       {
-        "label": "@sumiro - Xcode Spartan Light",
+        "label": "@matte - Xcode Spartan Light",
         "uiTheme": "vs",
         "path": "./themes/xcode/xcode-spartan-color-theme.json"
+      },
+      {
+        "label": "@matte - Vscode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vscode/vscode-oled-color-theme.json"
       }
     ]
   },

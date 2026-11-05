@@ -1,139 +1,207 @@
 <p align="center">
-  <img src="assets/Sumiro.png" alt="SUMIRO logo" width="112" />
-</p>
-
-<h1 align="center">SUMIRO</h1>
-
-<p align="center">
-  <strong>One extension. Multiple editor aesthetics.</strong><br />
-  A curated collection of OLED-black, dark, and light color themes for Visual Studio Code and compatible editors.
+  <img src="assets/screenshots/large_interface.png" alt="Matte Minimal banner" width="1080" />
 </p>
 
 <p align="center">
-  <em>Independent theme collection by Yuvraj Rastogi</em>
+  <img src="assets/logo.png" alt="Matte Minimal logo" width="112" />
 </p>
 
-<!-- After the extension is published, you can add official Marketplace badges here. Avoid hard-coded download counts or version numbers. -->
+<h1 align="center">Matte Minimal</h1>
 
-SUMIRO brings several visual styles together in one extension, so you can switch between them without installing a separate theme extension for every look. Choose a deep dark workspace, a true-black OLED variant, or a clean light palette from the same theme picker.
+<p align="center" style="font-size: 16px;">
+  <strong>One extension. Every aesthetic you love.</strong><br />
+  OLED black. Perfect contrast. Zero clutter.
+</p>   
 
-> **Independent project:** SUMIRO is not affiliated with, sponsored by, or endorsed by Cursor, Vercel, Microsoft, Apple, or their respective products. Their names are used only to identify the design inspirations or theme variants. See [Third-party notices](THIRD_PARTY_NOTICES.md).
+---
 
-## Why SUMIRO?
+**Matte Minimal** gives you Cursor, Vercel, Xcode, and VS Code themes, all in one install. No more hunting for 4 separate extensions.
 
-- **One install, many styles.** Keep the theme families you like in one extension.
-- **OLED-focused options.** Selected variants use a pitch-black `#000000` workspace background, with complementary UI colors chosen for separation and readability.
-- **Dark and light choices.** Switch visual styles without managing several separate theme extensions.
-- **A consistent theme picker.** Find variants by searching for terms such as `OLED`, `Cursor`, `Vercel`, `VS Code`, or `Xcode`.
-- **Theme-only.** SUMIRO provides color themes; it does not need to run a background service or collect your project data.
 
-Color appearance and contrast depend on the selected theme, editor, display, and user settings. OLED-black backgrounds do not guarantee lower eye strain or accessibility for every user.
+<div align="center">
+  <img src="https://shieldcn.dev/vscode/installs/esbenp/prettier-vscode.png?variant=branded" alt="VS Code Installs" />
+  <img src="https://shieldcn.dev/vscode/rating/esbenp/prettier-vscode.png?variant=secondary" alt="VS Code Rating" />
+  <img src="https://shieldcn.dev/github/stars/yuvraj-rastogi/matte-minimal.png?variant=branded" alt="GitHub Stars" />
+  <img src="https://shieldcn.dev/github/release/vercel/next.js.png?variant=branded" alt="GitHub Release" />
+</div>
+
+<!-- ![GitHub Sponsors](https://shieldcn.dev/github/sponsors/jal-co.png) -->
+
+### Supported Platform
+
+![Cursor](https://shieldcn.dev/badge/Cursor-IDE-000000.png?logo=cursor&logoColor=white&variant=default)
+![VS Code](https://shieldcn.dev/badge/VS_Code-IDE-000000.png?logo=ri:VscVscode&logoColor=white&variant=default)
+![Antigravity IDE](https://shieldcn.dev/badge/Antigravity-IDE-000000.png?logo=data:image/svg%2Bxml;base64,PASTE_YOUR_BASE64_HERE&variant=default)
+
+<!-- ![Antigravity](https://shieldcn.dev/badge/Antigravity-IDE-000000.svg?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICAgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiCiAgICAgdmlld0JveD0iMCAwIDE4MCAxODAiCiAgICAgZmlsbD0ibm9uZSI%2BCiAgPHBhdGgKICAgIGQ9Ik0xNDQuMjQ4IDE0OS4wNjJDMTUxLjc0OCAxNTQuNjg4IDE2Mi45OTggMTUwLjkzOCAxNTIuNjg1IDE0MC42MjVDMTIxLjc0OCAxMTAuNjI1IDEyOC4zMSAyOC4xMjUgODkuODcyNyAyOC4xMjVDNTEuNDM1MiAyOC4xMjUgNTcuOTk3NyAxMTAuNjI1IDI3LjA2MDIgMTQwLjYyNUMxNS44MTAyIDE1MS44NzUgMjcuOTk3NyAxNTQuNjg4IDM1LjQ5NzcgMTQ5LjA2MkM2NC41NjAyIDEyOS4zNzUgNjIuNjg1MiA5NC42ODc1IDg5Ljg3MjcgOTQuNjg3NUMxMTcuMDYgOTQuNjg3NSAxMTUuMTg1IDEyOS4zNzUgMTQ0LjI0OCAxNDkuMDYyWiIKICAgIGZpbGw9IiNGRkZGRkYiLz4KPC9zdmc%2B&variant=default) -->
+
+> **Independent project:** *Matte Minimal is an independent project. It is not affiliated with, sponsored by, or endorsed by Cursor (Anysphere), Vercel, Visual Studio Code (Microsoft), Xcode (Apple), or their respective owners. All product names, logos, and trademarks mentioned here belong to their respective owners and are used for identification only.*
+
+## Why Matte Minimal?
+
+- **One install, all your favorite looks.** Cursor, Vercel, Xcode, VS Code — one theme picker.
+- **True OLED black.** `#000000` workspace, zero eye strain.
+- **Dark + Light.** Switch in one click, no extra extensions.
+- **Tuned for long sessions.** Crisp indent guides, italic comments, clean `@` highlighting.
+- **No bloat.** Themes only. No background services, no data collection.   
+
 
 ## Theme collection
 
-SUMIRO currently defines **20 themes across four visual families**. Names below describe the collection; the exact visible labels are defined in `package.json`.
+Matte Minimal currently defines **20 themes across four visual families**. Names below describe the collection; the exact visible labels are defined in `package.json`.
 
 ### Cursor-inspired themes
 
-| Theme | Style |
-| --- | --- |
-| Cursor OLED | Pitch-black OLED variant |
-| Cursor Dark | Classic dark palette |
-| Cursor Dark Midnight | Deeper midnight dark palette |
-| Cursor Dark High Contrast | High-contrast dark variant |
-| Cursor Dark Colorblind | Alternate dark color variant |
-| Cursor Light | Light palette |
-| Cursor Light High Contrast | High-contrast light variant |
-| Cursor Light Colorblind | Alternate light color variant |
+<div style="overflow-x: auto; max-width: 100%; padding-bottom: 12px; margin-bottom: 24px;">
+<table width="2640" style="width: max-content; border-collapse: separate; border-spacing: 0; border: none; background: transparent; margin: 0;">
+  <tr>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/cursor/oled.png" width="420" alt="Cursor OLED" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Cursor OLED</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/cursor/dark.png" width="420" alt="Cursor Dark" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Cursor Dark</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/cursor/dark-midnight.png" width="420" alt="Cursor Dark Midnight" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Cursor Dark Midnight</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/cursor/high-contrast.png" width="420" alt="Cursor Dark High Contrast" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Cursor Dark High Contrast</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/cursor/color-blind.png" width="420" alt="Cursor Dark Colorblind" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Cursor Dark Colorblind</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/cursor/light.png" width="420" alt="Cursor Light" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Cursor Light</b>
+    </td>
+  </tr>
+</table>
+</div>
 
-### Vercel-inspired themes
-
-| Theme | Style |
-| --- | --- |
-| Vercel Dark | Minimal dark palette with OLED-oriented black surfaces |
-| Vercel Light | Minimal light palette |
-
-### VS Code-inspired themes
-
-| Theme | Style |
-| --- | --- |
-| VS Code OLED | VS Code-inspired palette adapted for a pitch-black workspace |
 
 ### Xcode-inspired themes
 
-| Theme | Style |
-| --- | --- |
-| Xcode Classic Dark | Classic dark palette |
-| Xcode Dark OLED | Dark palette adapted for pitch-black surfaces |
-| Xcode Classic Light | Classic light palette |
-| Xcode Default Dark | Default-style dark palette |
-| Xcode Default Dark (Modified) | Modified dark variant |
-| Xcode Civic Dark | Civic dark palette |
-| Xcode Midnight Dark | Midnight dark palette |
-| Xcode Low Key Light | Low-key light palette |
-| Xcode Spartan Light | Minimal light palette |
+<div style="overflow-x: auto; max-width: 100%; padding-bottom: 12px; margin-bottom: 24px;">
+<table width="3520" style="width: max-content; border-collapse: separate; border-spacing: 0; border: none; background: transparent; margin: 0;">
+  <tr>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/xcode/oled.png" width="420" alt="Xcode Dark OLED" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Xcode Dark OLED</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/xcode/d-dark.png" width="420" alt="Xcode Default Dark" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Xcode Default Dark</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/xcode/v2d-dark.png" width="420" alt="Xcode Default Dark (v2)" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Xcode Default Dark (v2)</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/xcode/classic-dark.png" width="420" alt="Xcode Classic Dark" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Xcode Classic Dark</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/xcode/civi-dark.png" width="420" alt="Xcode Civic Dark" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Xcode Civic Dark</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/xcode/mignight.png" width="420" alt="Xcode Midnight Dark" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Xcode Midnight Dark</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/xcode/lowkey.png" width="420" alt="Xcode Low Key Light" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Xcode Low Key Light</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/xcode/spartan.png" width="420" alt="Xcode Spartan Light" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Xcode Spartan Light</b>
+    </td>
+  </tr>
+</table>
+</div>
 
-Names that refer to other products describe visual inspiration or a palette family, not official endorsement. Availability and rendering can vary across compatible editors.
 
-<!--
-PRE-PUBLISH SCREENSHOT GALLERY
-Capture real screenshots, save them in assets/screenshots/, and then uncomment this section.
+### Vercel-inspired themes
 
-## Preview
+<div style="overflow-x: auto; max-width: 100%; padding-bottom: 12px; margin-bottom: 24px;">
+<table width="1320" style="width: max-content; border-collapse: separate; border-spacing: 0; border: none; background: transparent; margin: 0;">
+  <tr>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/vercel/oled.png" width="420" alt="Vercel OLED" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Vercel OLED</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/vercel/dark.png" width="420" alt="Vercel Dark" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Vercel Dark</b>
+    </td>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/vercel/light.png" width="420" alt="Vercel Light" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>Vercel Light</b>
+    </td>
+  </tr>
+</table>
+</div>
 
-<p align="center">
-  <img src="assets/screenshots/sumiro-cursor-oled.png" alt="SUMIRO Cursor OLED theme in a code editor" width="900" />
-</p>
-<p align="center">
-  <img src="assets/screenshots/sumiro-vercel-dark.png" alt="SUMIRO Vercel Dark theme in a code editor" width="900" />
-</p>
-<p align="center">
-  <img src="assets/screenshots/sumiro-vscode-oled.png" alt="SUMIRO VS Code OLED theme in a code editor" width="900" />
-</p>
-<p align="center">
-  <img src="assets/screenshots/sumiro-xcode-dark.png" alt="SUMIRO Xcode-inspired dark theme in a code editor" width="900" />
-</p>
--->
+
+### VS Code-inspired themes
+
+<div style="overflow-x: auto; max-width: 100%; padding-bottom: 12px; margin-bottom: 24px;">
+<table width="440" style="width: max-content; border-collapse: separate; border-spacing: 0; border: none; background: transparent; margin: 0;">
+  <tr>
+    <td align="center" valign="top" width="440" style="vertical-align: top; padding: 0 10px; width: 440px; min-width: 440px; max-width: 440px; border: none;">
+      <img src="assets/screenshots/vscode/oled.png" width="420" alt="VS Code OLED" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.12); display: block; margin: 0 auto 10px auto;" /><br />
+      <b>VS Code OLED</b>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+_Names that refer to other products describe visual inspiration or a palette family, not official endorsement. Availability and rendering can vary across compatible editors._
 
 ## Installation
 
 ### Visual Studio Code
 
-After SUMIRO is published to the Visual Studio Marketplace, install it from the Extensions view:
-
 1. Open the Extensions view with `Ctrl+Shift+X` on Windows/Linux or `Cmd+Shift+X` on macOS.
-2. Search for **SUMIRO**.
-3. Select the extension published by `yuvraj-rastogi`, then choose **Install**.
+2. Search for **Matte Minimal**.
+3. Select the extension published by **Yuvraj Rastogi**, then choose **Install**.
 
 You can also install it from a terminal after publication:
 
 ```bash
-code --install-extension yuvraj-rastogi.sumiro
+code --install-extension YuvrajRastogi.matte-minimal
 ```
 
-### Cursor and other VS Code-compatible editors
+Or via VS Code Quick Open (`Ctrl+P` / `Cmd+P`):
 
-Extension-registry support differs by editor. Search for SUMIRO in the editor's configured registry. If it is not listed, check whether that editor supports Open VSX or installing a `.vsix` file manually. Compatibility is not guaranteed merely because an editor is based on VS Code.
+```text
+ext install YuvrajRastogi.matte-minimal
+```
+
+### Other Code-compatible editors
+
+Extension-registry support differs by editor. Search for **Matte Minimal** in the editor's configured registry. If it is not listed, check whether that editor supports Open VSX or installing a `.vsix` file manually. Compatibility is not guaranteed merely because an editor is based on VS Code.
 
 ## Apply a theme
 
 1. Open the theme picker with `Ctrl+K Ctrl+T` on Windows/Linux or `Cmd+K Cmd+T` on macOS.
-2. Search for `OLED`, `Cursor`, `Vercel`, `VS Code`, or `Xcode`.
+2. Search for `Matte`, `OLED`, `Cursor`, `Vercel`, `VS Code`, or `Xcode`.
 3. Preview a theme, then press `Enter` to apply it.
 
 You can return to the same picker at any time to switch themes. Theme labels may be updated between releases; use the names displayed by your installed version.
-
-## Compatibility
-
-SUMIRO uses the standard VS Code color-theme contribution format. It is intended for Visual Studio Code and compatible editors that support these theme contributions. Individual editors may render UI colors differently or omit some theme color keys. Test your preferred theme in your own editor and version.
-
-This project does not claim compatibility with every VS Code-derived editor or every web/remote environment.
 
 ## Feedback and contributions
 
 Found a missing color, unreadable token, or editor-specific rendering issue? Use the repository’s Issues link in the extension’s Resources panel and include:
 
-- The exact SUMIRO theme name.
+- The exact Matte Minimal theme name (e.g. `@matte - Vercel OLED`).
 - The editor and version you use.
 - The language or UI area affected.
 - A screenshot, if it helps explain the issue.
@@ -142,16 +210,16 @@ Please do not include passwords, tokens, private source code, or other sensitive
 
 Contribution proposals are welcome, but please open an issue first for substantial palette changes. Do not submit theme files or assets copied from another project unless their license permits the proposed use and the source is documented.
 
-## Credits and trademarks
+### Credits and Trademarks
+Special appreciation goes to the original software engineers and design teams whose foundational IDE color palettes and design systems inspired this collection:
+- **Cursor Design & Engineering Team (Anysphere, Inc.)** — Foundational Cursor color aesthetics.
+- **Apple Xcode Engineering & Design Team (Apple Inc.)** — Foundational Xcode color palettes.
+- **Vercel Design & Engineering Team (Vercel Inc.)** — Foundational Vercel & Geist brand color tokens.
+- **Visual Studio Code Team (Microsoft Corporation)** — Foundational VS Code Default Dark+ baseline (MIT).
 
-SUMIRO is an independent project. Some palettes and visual choices are inspired by familiar editor and product aesthetics, including Cursor, Vercel, Visual Studio Code, and Xcode. The names and marks of those products belong to their respective owners. No affiliation, sponsorship, or endorsement is claimed.
+See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for detailed source attributions and license notices.
 
-Attribution is not a substitute for permission to redistribute third-party material. Where an upstream file, palette, or asset is included or adapted, its source, applicable terms, and any required notices must be recorded in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Do not distribute material unless you have verified the relevant rights.
+### License
 
-## License
+The original Matte Minimal materials are licensed under the Matte Minimal Custom License. _Third-party materials remain governed by their own terms._ _Please read the LICENSE file and_ [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) _before using or redistributing this project._
 
-The original SUMIRO materials are distributed under the [SUMIRO Custom Use and Redistribution License](LICENSE). This is a custom, restrictive license; it is **not an OSI-approved open-source license**. Any third-party materials remain subject to their own applicable terms. Read the license and third-party notices before using or redistributing the project.
-
-The SUMIRO logo is original artwork created by Yuvraj Rastogi and is protected by copyright. It is provided for display as part of the genuine SUMIRO extension and official project listings only. Reuse, modification, redistribution, resale, and commercial use of the logo require prior written permission.
-
-See the `LICENSE` file for the full terms.

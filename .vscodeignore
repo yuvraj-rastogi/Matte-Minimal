@@ -5,3 +5,4 @@
 *.vsix
 _gemini/**
 .DS_Store
+_private

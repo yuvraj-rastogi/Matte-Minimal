@@ -1,45 +1,39 @@
-# Third-party notices and source record
+# Third-Party Notices
 
-SUMIRO is an independent theme collection. This file is intended to identify any
-third-party theme files, palettes, snippets, assets, or other material included
-in or adapted for the release, and to record the terms that permit their use.
+Matte Minimal is an independent VS Code theme collection. It includes original work and may reference color systems and themes from other software.
 
-**Release checklist:** complete this record before publishing. Do not assume that
-credit, a disclaimer, or changing colors grants permission to redistribute an
-upstream file or a derivative of it. If you cannot verify the applicable rights,
-remove that material from the release or obtain written permission.
+*The names of third-party products and organizations below are used for attribution and identification only. Matte Minimal is not affiliated with or endorsed by their respective owners.*
 
-## Material inventory
+## Cursor
 
-For every theme file that was copied, ported, adapted, or derived from another
-source, record at least:
+**Source:** Cursor IDE  
+**Reference:** Cursor's built-in themes  
+**License status:** The license for the specific installed theme files used as references has not been verified.
 
-- The theme/file name in SUMIRO.
-- The original author or project and a direct source URL.
-- The exact license or written permission that applies to the source.
-- Any required copyright notice, attribution, or license text.
-- The changes made in SUMIRO.
+Cursor's open-source software notice identifies licenses for certain components used by Cursor. This does not automatically establish the license of Cursor's built-in theme files.
 
-Use a separate entry for each upstream source where practical. Do not write
-“inspired by” where the file was actually copied or adapted; describe the
-relationship accurately.
+## Xcode
 
-| SUMIRO theme/file | Original source and author | License or permission (link/evidence) | Changes made | Required notices included? |
-| --- | --- | --- | --- | --- |
-| Cursor theme files | **Complete before release** | **Verify redistribution rights** | Describe exact changes | **Pending** |
-| Vercel theme files | **Complete before release** | **Verify redistribution rights** | Describe exact changes | **Pending** |
-| VS Code theme files | **Complete before release** | **Verify redistribution rights** | Describe exact changes | **Pending** |
-| Xcode theme files | **Complete before release** | **Verify redistribution rights** | Describe exact changes | **Pending** |
+**Source:** Apple Xcode  
+**Reference:** Xcode's built-in themes  
+**License status:** Redistribution permission for the specific theme files has not been verified.
 
-Delete rows that do not apply and replace each remaining placeholder with verified
-information. If themes were independently created without using upstream files,
-state that accurately and retain your design/source notes. Do not leave “Pending”
-entries in the published release.
+Apple and Xcode are trademarks of Apple Inc. Matte Minimal is not affiliated with or endorsed by Apple.
 
-## Trademarks and independent status
+## Vercel
 
-Cursor, Vercel, Visual Studio Code, VS Code, and Xcode are names associated with
-products or services owned by their respective rights holders. They are used in
-SUMIRO documentation only to identify the intended visual inspiration or
-compatibility. SUMIRO is not affiliated with, sponsored by, or endorsed by those
-rights holders. Their names and marks are not licensed by this notice.
+**Source:** Vercel Geist color system  
+**Reference:** https://vercel.com/geist/colors
+
+The Geist color system was used as a color reference. This notice does not claim ownership of Vercel's design system or grant rights to any third-party materials.
+
+## Visual Studio Code
+
+**Source:** Microsoft Visual Studio Code open-source repository  
+**License:** MIT, where applicable to files taken from the MIT-licensed repository.
+
+The applicable copyright and license notices must be retained with any redistributed MIT-licensed files.
+
+## Important
+
+Each third-party component remains subject to its own applicable license and terms. **Nothing in Matte Minimal's custom license removes or restricts rights granted by those third-party licenses.**

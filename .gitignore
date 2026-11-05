@@ -10,3 +10,7 @@ node_modules/
 !.env.example
 .DS_Store
 .vscode-test/
+example.json
+.cmd
+xyz.md
+_private

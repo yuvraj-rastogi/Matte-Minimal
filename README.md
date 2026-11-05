@@ -21,8 +21,7 @@
 <div align="center">
   <img src="https://shieldcn.dev/vscode/installs/YuvrajRastogi/matte-minimal.png?variant=branded" />
   <img src="https://shieldcn.dev/vscode/rating/YuvrajRastogi/matte-minimal.png?variant=secondary" />
-  <img src="https://shieldcn.dev/github/stars/yuvraj-rastogi/matte-minimal.png?variant=secondary" alt="GitHub Stars" />
-  <img src="https://shieldcn.dev/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyuvraj-rastogi%2FMatte-Minimal%2Fmain%2Fpackage.json&query=version&prefix=v&logo=ri:FaCodeBranch&label=version&variant=secondary" alt="GitHub R" />
+  <img src="https://shieldcn.dev/github/stars/yuvraj-rastogi/matte-minimal.png?variant=secondary" alt="GitHub Star" /> <img src="https://shieldcn.dev/github/release/yuvraj-rastogi/matte-minimal.png?variant=secondary"><img/>
 </div>
 
 <!-- ![GitHub Sponsors](https://shieldcn.dev/github/sponsors/jal-co.png) -->

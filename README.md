@@ -15,7 +15,7 @@
 
 ---
 
-**Matte Minimal** gives you Cursor, Vercel, Xcode, and VS Code themes, all in one install. No more hunting for 4 separate extensions.
+[**Matte Minimal**](https://marketplace.visualstudio.com/items?itemName=YuvrajRastogi.matte-minimal) gives you Cursor, Vercel, Xcode, and VS Code themes, all in one install. No more hunting for 4 separate extensions.
 
 
 <div align="center">
@@ -185,18 +185,24 @@ Or via VS Code Quick Open (`Ctrl+P` / `Cmd+P`):
 ext install YuvrajRastogi.matte-minimal
 ```
 
-### Other Code-compatible editors
+### Cursor, Antigravity and Others
 
-Extension-registry support differs by editor. Search for **Matte Minimal** in the editor's configured registry. If it is not listed, check whether that editor supports Open VSX or installing a `.vsix` file manually. Compatibility is not guaranteed merely because an editor is based on VS Code. <br>
+Extension-registry support differs by editor. Search for **Matte Minimal** in the editor's configured registry. If it is not listed, check whether that editor supports Open VSX or installing a `.vsix` file manually. Compatibility is not guaranteed merely because an editor is based on VS Code. 
+<br>
+
 [📦  Download (.vsix) ](https://github.com/yuvraj-rastogi/Matte-Minimal/releases/)
 
-## Apply a theme
+### From Extension Manager
+<img src="assets/screenshots/vsix.png">
 
-1. Open the theme picker with `Ctrl+K Ctrl+T` on Windows/Linux or `Cmd+K Cmd+T` on macOS.
-2. Search for `Matte`, `OLED`, `Cursor`, `Vercel`, `VS Code`, or `Xcode`.
-3. Preview a theme, then press `Enter` to apply it.
+### Through Command Palette
+1. Press `Ctrl + Shift + P`.
+2. Type: `Extensions: install from VSIX`
+3. Select `matte-minimal-1.x.x.vsix` file. ([📦 .vsix ](https://github.com/yuvraj-rastogi/Matte-Minimal/releases/))
+4. Now you can use it.
 
-You can return to the same picker at any time to switch themes. Theme labels may be updated between releases; use the names displayed by your installed version.
+<img src="assets/screenshots/cmd.png">
+
 
 ## Feedback and contributions
 

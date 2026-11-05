@@ -1,0 +1,1 @@
+*In this example folder, we have many files of different programming languages. Example: `example.py` — it contains sample code. The code has nothing to do with the functions of the extension; it is used to see the syntax coloring and formatting so you can see how the theme looks!*

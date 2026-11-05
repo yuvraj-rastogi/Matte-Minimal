@@ -19,10 +19,10 @@
 
 
 <div align="center">
-  <img src="https://shieldcn.dev/vscode/installs/esbenp/prettier-vscode.png?variant=branded" alt="VS Code Installs" />
-  <img src="https://shieldcn.dev/vscode/rating/esbenp/prettier-vscode.png?variant=secondary" alt="VS Code Rating" />
-  <img src="https://shieldcn.dev/github/stars/yuvraj-rastogi/matte-minimal.png?variant=branded" alt="GitHub Stars" />
-  <img src="https://shieldcn.dev/github/release/vercel/next.js.png?variant=branded" alt="GitHub Release" />
+  <img src="https://shieldcn.dev/vscode/installs/YuvrajRastogi/matte-minimal.png?variant=branded" />
+  <img src="https://shieldcn.dev/vscode/rating/YuvrajRastogi/matte-minimal.png?variant=secondary" />
+  <img src="https://shieldcn.dev/github/stars/yuvraj-rastogi/matte-minimal.png?variant=secondary" alt="GitHub Stars" />
+  <img src="https://shieldcn.dev/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyuvraj-rastogi%2FMatte-Minimal%2Fmain%2Fpackage.json&query=version&prefix=v&logo=ri:FaCodeBranch&label=version&variant=secondary" alt="GitHub Release" />
 </div>
 
 <!-- ![GitHub Sponsors](https://shieldcn.dev/github/sponsors/jal-co.png) -->
@@ -187,7 +187,8 @@ ext install YuvrajRastogi.matte-minimal
 
 ### Other Code-compatible editors
 
-Extension-registry support differs by editor. Search for **Matte Minimal** in the editor's configured registry. If it is not listed, check whether that editor supports Open VSX or installing a `.vsix` file manually. Compatibility is not guaranteed merely because an editor is based on VS Code.
+Extension-registry support differs by editor. Search for **Matte Minimal** in the editor's configured registry. If it is not listed, check whether that editor supports Open VSX or installing a `.vsix` file manually. Compatibility is not guaranteed merely because an editor is based on VS Code. <br>
+[📦  Download (.vsix) ](https://github.com/yuvraj-rastogi/Matte-Minimal/releases/)
 
 ## Apply a theme
 

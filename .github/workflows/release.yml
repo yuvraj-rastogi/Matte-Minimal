@@ -1,8 +1,9 @@
 
-name: Publish to Open VSX
+name: Publish Matte Minimal
 
 on:
   workflow_dispatch:
+
   push:
     tags:
       - 'v*'
@@ -12,7 +13,9 @@ permissions:
   id-token: write
 
 jobs:
-  publish:
+
+  publish-vscode:
+    name: Publish to VS Code Marketplace
     runs-on: ubuntu-latest
 
     steps:
@@ -24,5 +27,22 @@ jobs:
         with:
           node-version: 22
 
-      - name: Publish extension to Open VSX
+      - name: Publish to VS Code Marketplace
+        run: npx --yes @vscode/vsce@4.0.2 publish --oidc
+
+
+  publish-openvsx:
+    name: Publish to Open VSX
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Publish to Open VSX
         run: npx --yes ovsx publish --trusted-publishing
